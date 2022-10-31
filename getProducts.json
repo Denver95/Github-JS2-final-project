@@ -1,0 +1,37 @@
+[
+  {
+    "id_product": 124,
+    "product_name": "Клавиатура",
+    "price": 1600
+  },
+  {
+    "id_product": 407,
+    "product_name": "Наушники",
+    "price": 3000
+  },
+  {
+    "id_product": 47,
+    "product_name": "Телевизор",
+    "price": 38000
+  },
+  {
+    "id_product": 432,
+    "product_name": "Монитор",
+    "price": 31000
+  },
+  {
+    "id_product": 321,
+    "product_name": "Системный блок",
+    "price": 25000
+  },
+  {
+    "id_product": 673,
+    "product_name": "Колонка",
+    "price": 2000
+  },
+  {
+    "id_product": 497,
+    "product_name": "Принтер",
+    "price": 10000
+  }
+]
